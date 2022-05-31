@@ -1,0 +1,75 @@
+.myBG {
+  height: 100vh;
+  background: url("../assets/images/bg/bgtwo.jpg");
+  background-size: cover;
+}
+
+.intro {
+  height: 350px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.title {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px black;
+  letter-spacing: 3px;
+}
+
+.introButton {
+  text-align: center;
+  margin-top: 1em;
+}
+
+.myBGtwo {
+  height: auto;
+  background: url("../assets/images/bg/bg.png");
+  background-size: cover;
+}
+
+.cardtitle {
+  height: 13em;
+  font-size: 14px;
+}
+
+.trending {
+  height: auto;
+}
+
+.movieImage {
+  height: auto;
+  margin: 5px;
+  padding: 5px;
+}
+
+.images {
+  height: 450px;
+}
+
+.superhero {
+  height: auto;
+}
+
+.main-footer {
+  height: 350px;
+}
+
+.question {
+  color: dimgray;
+  padding-top: 5em;
+  padding-bottom: 1em;
+}
+
+.rowone {
+  color: dimgray;
+  font-size: 16px;
+}
+
+.footer-buttom {
+  color: dimgray;
+  margin-top: 2em;
+}
